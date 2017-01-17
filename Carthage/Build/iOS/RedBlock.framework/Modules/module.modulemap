@@ -1,0 +1,10 @@
+framework module RedBlock {
+  umbrella header "RedBlock.h"
+
+  export *
+  module * { export * }
+}
+
+module RedBlock.Swift {
+    header "RedBlock-Swift.h"
+}
