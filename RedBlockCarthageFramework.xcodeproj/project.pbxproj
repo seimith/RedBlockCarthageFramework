@@ -15,8 +15,8 @@
 		D346F1C81E2DED9900063C86 /* RedBlock.h in Headers */ = {isa = PBXBuildFile; fileRef = D346F1C61E2DED9900063C86 /* RedBlock.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D346F1CB1E2DED9900063C86 /* RedBlock.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D346F1C41E2DED9900063C86 /* RedBlock.framework */; };
 		D346F1CD1E2DED9900063C86 /* RedBlock.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D346F1C41E2DED9900063C86 /* RedBlock.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		D346F1D11E2DEDA700063C86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D346F1AD1E2DEC8F00063C86 /* AppDelegate.swift */; };
-		D346F1D21E2DEDA700063C86 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D346F1AF1E2DEC8F00063C86 /* ViewController.swift */; };
+		D346F1D81E2DF4D000063C86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D346F1AD1E2DEC8F00063C86 /* AppDelegate.swift */; };
+		D346F1D91E2DF4D000063C86 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D346F1AF1E2DEC8F00063C86 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -239,8 +239,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D346F1D11E2DEDA700063C86 /* AppDelegate.swift in Sources */,
-				D346F1D21E2DEDA700063C86 /* ViewController.swift in Sources */,
+				D346F1D81E2DF4D000063C86 /* AppDelegate.swift in Sources */,
+				D346F1D91E2DF4D000063C86 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -454,6 +454,7 @@
 				D346F1BE1E2DEC8F00063C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D346F1CE1E2DED9900063C86 /* Build configuration list for PBXNativeTarget "RedBlock" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +463,7 @@
 				D346F1D01E2DED9900063C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
