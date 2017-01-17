@@ -8,7 +8,7 @@
 
 import UIKit
 
-public class ViewController: UIViewController {
+/*public class ViewController: UIViewController {
 
     public override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,7 +26,7 @@ public class ViewController: UIViewController {
     }
 
 
-}
+}*/
 
 
 public class Car: CustomStringConvertible {
